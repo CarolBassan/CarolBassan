@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
+<h2> Eai Visitantes <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-<!--
-**CarolBassan/CarolBassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" width="50">
 
-Here are some ideas to get you started:
+</samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+</p>
+
+
+</div>
+
+<div align="center">
+
+Você finalmente descobriu meu perfil no Github. <br>
+Por favor, sinta-se livre para conhecer meu perfil. <br>
+Pergunte-me qualquer coisa. <a href="https://github.com/CarolBassan"><b>aqui</b></a><br>
+ou no meu <a href="bassan804@gmail.com"><b>email</b></a>
