@@ -1,20 +1,25 @@
+## Oiii eu sou a Carolini Bassan estudante de Desenvolvimento de web Full Stack!
 <div align="center">
-<h2> Eai Visitantes <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <a href="https://github.com/CarolBassan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolbassan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbassan&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<div align="center" width="50">
-
-</samp>
-
-  ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-</p>
-
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Carol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Carol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-<div align="center">
-
-Você finalmente descobriu meu perfil no Github. <br>
-Por favor, sinta-se livre para conhecer meu perfil. <br>
-Pergunte-me qualquer coisa. <a href="https://github.com/CarolBassan"><b>aqui</b></a><br>
-ou no meu <a href="bassan804@gmail.com"><b>email</b></a>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/carolbassan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Carolini Bassan#7974" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:bassan804@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carolini-bassan-6737731ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
