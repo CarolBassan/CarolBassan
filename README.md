@@ -14,8 +14,17 @@
 </div>
   
   ##
- 
-<div> 
+  <img  width="705px"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarolBassan&theme=tokyonight" alt="stats" />
+ <br />
+ <br />
+ <div id="trophies" align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CarolBassan&theme=tokyonight&title=Stars,Followers,Commit,Repo,Issues,PullRequest,MultiLanguage&margin-w=29&margin-h=0&row=1&column=6&no-frame=true"/>
+ </div>
+  
+  <br/>
+  <br/>
+  
+  <div> 
   <a href="https://instagram.com/carolbassan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Carolini Bassan#7974" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bassan804@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
