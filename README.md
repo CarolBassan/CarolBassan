@@ -14,8 +14,6 @@
 </div>
   
   ##
-  <img  width="705px"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarolBassan&theme=tokyonight" alt="stats" />
- <br />
  <br />
  <div id="trophies" align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=CarolBassan&theme=tokyonight&title=Stars,Followers,Commit,Repo,Issues,PullRequest,MultiLanguage&margin-w=29&margin-h=0&row=1&column=6&no-frame=true"/>
