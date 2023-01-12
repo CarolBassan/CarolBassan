@@ -1,4 +1,4 @@
-## Oiii eu sou a Carolini Bassan estudante de Desenvolvimento Web Full Stack!
+## Olá eu me chamo Carolini Bassan e sou estudante de Desenvolvimento Web Full Stack!
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
